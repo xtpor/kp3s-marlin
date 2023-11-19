@@ -1,0 +1,3 @@
+[submodule "KP3S"]
+	path = KP3S
+	url = https://github.com/bdwilson/KP3S
